@@ -14,6 +14,7 @@ Windows 10 -> Direct3D
 Android 10 -> OpenGL ES 3.0
 Android 7 -> OpenGL ES 2.0
 iOS 14 -> OpenGL ES 2.0
+iOS 14 + WebGL 2.0 experimental setting enabled -> OpenGL ES 3.0
 iOS 15 -> Metal
 ```
 
